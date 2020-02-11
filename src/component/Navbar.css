@@ -1,0 +1,19 @@
+.navbar {
+	margin: 0px;
+	padding: 30px;
+	background: lightblue;
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {
+	font-size: 40px;
+	float: left;
+	padding: 10px;
+}
+
+.login {
+	font-size: 20px;
+	float: right;
+	padding: 10px;
+}

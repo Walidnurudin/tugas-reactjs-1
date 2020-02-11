@@ -1,0 +1,15 @@
+.main {
+	float: left;
+	background: green;
+	width: 70%;
+	height: 400px;
+	font-size: 40px;
+}
+
+.sidebar {
+	float: right;
+	background: salmon;
+	width: 30%;
+	height: 400px;
+	font-size: 40px;
+}
